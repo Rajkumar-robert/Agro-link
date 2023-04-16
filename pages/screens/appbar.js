@@ -19,9 +19,8 @@ const AppBar = () => {
           </a>
         </li>
         <li>
-          <a href="#" className="transaction h">
-            Transaction
-          </a>
+          <Link  href="purchases"  className="transaction h">Transaction</Link>
+            
         </li>
         <li>
           <div class="search-bar-container">
